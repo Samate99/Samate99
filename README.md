@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Mate Santha
+### Hi there 👋, I'm Mate Santha
 
 - 🔭 I’m currently working BitNinja
 - 🌱 I’m currently studying at University of Debrecen, Faculty of Informatics.  
