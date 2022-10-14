@@ -1,8 +1,8 @@
 ### Hi there 👋,I'm Mate Santha
 
-🔭 I’m currently working at BitNinja
-🌱 I’m currently studying at University of Debrecen, Faculty of Informatics.  
-📫 How to reach me: santha.mate22@gmail.com
+- 🔭 I’m currently working BitNinja
+- 🌱 I’m currently studying at University of Debrecen, Faculty of Informatics.  
+- 📫 How to reach me: santha.mate22@gmail.com
 
 <!--
 **Samate99/Samate99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
