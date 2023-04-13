@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mate Santha
 
-- 🔭 I’m currently working BitNinja
+- 🔭 I’m currently working at -
 - 🌱 I’m currently studying at University of Debrecen, Faculty of Informatics.  
 - 📫 How to reach me: santha.mate22@gmail.com
 
